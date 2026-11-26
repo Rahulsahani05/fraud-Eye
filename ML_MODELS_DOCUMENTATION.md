@@ -407,5 +407,5 @@ log_scan('voice', filename, result, user_ip)
 
 **Last Updated:** February 2026  
 **Model Version:** 2.0  
-**Maintained by:** Piyush Dhariwal  
-**License:** MIT
+**Maintained by:** Rahul Sahani  
+**License:** MIET
