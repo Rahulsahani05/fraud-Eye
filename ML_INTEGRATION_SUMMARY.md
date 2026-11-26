@@ -183,4 +183,4 @@ attacks = detector.detect_attack(url)
 
 **Last Updated:** February 2026  
 **Model Version:** 2.0  
-**Maintained by:** Piyush Dhariwal
+**Maintained by:** Rahul Sahani

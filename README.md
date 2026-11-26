@@ -426,7 +426,7 @@ Git LFS (for ML models)
 
 ```bash
 # Clone repository
-git clone https://github.com/Piyush-ai-Miet/fraud-eye.git
+git clone https://github.com/Rahulsahani05/fraud-Eye.git
 cd fraud-eye
 
 # Install Git LFS (if not already installed)
