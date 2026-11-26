@@ -508,10 +508,10 @@ FACE_AUTH_ENABLED=true
 
 ## 👨‍💻 Developer
 
-**Piyush Dhariwal**
+**Rahul Sahani**
 
-- 🔗 GitHub: [@Piyush-ai-Miet](https://github.com/Piyush-ai-Miet)
-- 💼 LinkedIn: [linkedin.com/in/piyush-dhariwal-419816362](https://linkedin.com/in/piyush-dhariwal-419816362)
+- 🔗 GitHub: ([https://github.com/Rahul-Sahani-Miet](https://github.com/Rahulsahani05))
+- 💼 LinkedIn: [linkedin.com/in/rahul-sahani-829078289](https://www.linkedin.com/in/rahul-sahani-829078289)
 - 🌐 Live Demo: [fraud-eye-private.onrender.com](https://fraud-eye-private.onrender.com)
 
 ---
